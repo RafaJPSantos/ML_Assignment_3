@@ -1,1 +1,6 @@
-# ML_Assignment_3
+# ML Assignment 3 - Jupyter Notebook
+
+Requirements: 
+- Python3
+- TensorFlow
+- Keras 
